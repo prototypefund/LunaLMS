@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 996 328"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg3"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs3" />&#10;    <g
+   id="ArtBoard1"
+   transform="matrix(1,0,0,1,-2.25548,0.270915)">&#10;        <rect
+   x="2.255"
+   y="-0.271"
+   width="995.426"
+   height="327.089"
+   style="fill:none;"
+   id="rect1" />&#10;        <g
+   transform="matrix(2.26588,0,0,2.26588,-818.332,-882.718)"
+   id="g1">&#10;            <path
+   d="M734.07,398.94L669.636,463.378L734.07,527.812L798.515,463.378L734.07,398.94Z"
+   style="fill:rgb(186,198,56);fill-rule:nonzero;"
+   id="path1" />&#10;        </g>&#10;        <g
+   transform="matrix(2.19974,0,0,2.19974,-525.148,-879.165)"
+   id="g2">&#10;            <path
+   d="M463.87,403.59L402.87,438.801L402.87,509.27L463.862,544.473L524.85,509.262L524.85,438.809L463.87,403.59Z"
+   style="fill:rgb(33,160,160);fill-rule:nonzero;"
+   id="path2" />&#10;        </g>&#10;        <g
+   transform="matrix(-1.96486,-2.40625e-16,2.38509e-16,-1.94757,1074.3,1617.28)"
+   id="g3">&#10;            <path
+   d="M505.21,739.66L467.73,674.73L392.761,804.56L542.691,804.56L505.21,739.66Z"
+   style="fill:rgb(200,17,80);fill-rule:nonzero;"
+   id="path3" />&#10;        </g>&#10;    </g>&#10;</svg>
